@@ -8,3 +8,4 @@ https://khushi9555.github.io/Drum-Kit/
  HTML , CSS , Javascript
 
  
+Added Readme. inststuction 
